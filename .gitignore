@@ -6,7 +6,6 @@ node_modules/
 assets/
 .idea/
 *.editorconfig
-dist/
 selenium-debug.log
 .history/
 .vscode/
