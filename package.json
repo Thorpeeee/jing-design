@@ -1,0 +1,16 @@
+{
+  "name": "jing-design",
+  "version": "1.0.0",
+  "description": "simple person web design",
+  "main": "index.js",
+  "author": "jing",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
+feat: 461 - 交易内容管理	f4f43000	chenchao <chenhchao@theduapp.com>	2020年12月16日 上午10:20

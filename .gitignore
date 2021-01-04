@@ -1,0 +1,14 @@
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+node_modules/
+assets/
+.idea/
+*.editorconfig
+dist/
+selenium-debug.log
+.history/
+.vscode/
+0000/
+/node_modules/
