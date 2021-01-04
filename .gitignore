@@ -3,7 +3,6 @@ yarn-debug.log*
 yarn-error.log*
 .DS_Store
 node_modules/
-assets/
 .idea/
 *.editorconfig
 selenium-debug.log
